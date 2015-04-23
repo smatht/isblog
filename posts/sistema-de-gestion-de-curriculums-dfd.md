@@ -25,3 +25,7 @@ El diagrama de contexto representa la vista de más alto nivel del sistema permi
 
 ![diagrama de contexto](/images/context.jpg "Diagrama de contexto")
 
+### Diagrama de nivel 1:
+
+En construcción...
+
