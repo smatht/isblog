@@ -212,6 +212,7 @@ POSTS = (
 )
 PAGES = (
     ("stories/*.md", "stories", "story.tmpl"),
+    ("stories/*.rst", "stories", "story.tmpl"),
     ("stories/*.txt", "stories", "story.tmpl"),
 )
 
