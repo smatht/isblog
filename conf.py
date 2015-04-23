@@ -379,7 +379,7 @@ INDEX_PATH = "blog"
 #
 # If you don't need any of these, just set to []
 REDIRECTIONS = [
-    ("index.html", "/stories/principal/"),
+    ("index.html", "/isblog/stories/principal/"),
 ]
 
 # Presets of commands to execute to deploy. Can be anything, for
