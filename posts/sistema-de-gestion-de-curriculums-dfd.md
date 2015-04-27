@@ -27,5 +27,5 @@ El diagrama de contexto representa la vista de más alto nivel del sistema permi
 
 ### Diagrama de nivel 1:
 
-En construcción...
+![diagrama de nivel 1](/images/level1.jpg "Diagrama de primer nivel")
 
