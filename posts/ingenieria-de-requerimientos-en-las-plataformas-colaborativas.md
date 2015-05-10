@@ -40,7 +40,11 @@ Una solicitud de cambio podría seguir los siguientes pasos y niveles de aprobac
 
 El sistema de control de versiones y plataformas como Github o Bitbucket han surgido para hacer seguimiento en los cambios del código fuente de un programa y crear un flujo de trabajo colaborativo, pero hoy en dia estas funcionalidades se han expandido hasta la documentación y porque no, los requerimientos del software, administrando los cambios que se realizan en los mismos. 
 
+Por ejemplo [Perl 6](http://doc.perl6.org/ "Perl 6") usa [github para mantener la documentación](https://github.com/perl6/doc "Perl 6 doc") de su lenguaje de programación.
+
 Yendo un poco mas lejos mediante el uso de esta tecnologia se pueden escribir libros y manejar los cambios y el historial de las diferentes ediciones de una forma segura.
+
+Libro escrito en LaTex mantenido en Github: [https://github.com/HoTT/book](https://github.com/HoTT/book "Libro").
 
 Las herramientas estan ahi al alcance de nosotros, lo unico que tenemos que hacer es tomarlas usarlas.
 
